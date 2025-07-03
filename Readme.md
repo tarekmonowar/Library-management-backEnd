@@ -1,4 +1,4 @@
-# Book Borrowing API
+# Library Management BackEnd
 
 This is Programming Hero Lavel-2 Assignment-3 . It's a RESTful API built with
 **Express.js** and **MongoDB** for managing books and borrowing records.  
