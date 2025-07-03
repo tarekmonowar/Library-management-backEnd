@@ -9,7 +9,7 @@ as borrowing books with availability management and borrowing summaries.
 
 ## Live Backend Link
 
-https://assignment-3-three-lilac.vercel.app
+https://library-management-back-end.vercel.app/
 
 ---
 
