@@ -59,6 +59,6 @@ https://assignment-3-three-lilac.vercel.app
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/tarekmonowar/Assignment-3.git
+   git clone https://github.com/tarekmonowar/Library-management-backEnd.git
 
    ```
